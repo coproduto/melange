@@ -12,7 +12,8 @@
   melange-compiler-libs
   core
   napkin
-  reason)
+  reason
+  cmdliner)
  (modules js_main)
  (preprocessor_deps
   js_main.ml
